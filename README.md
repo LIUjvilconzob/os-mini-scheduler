@@ -1,5 +1,16 @@
-Tiny CPU Scheduler Simulator
-A simple CPU scheduling simulator written in Python.
+The Tiny CPU Scheduler Simulator is a lightweight yet powerful Python-based program designed to demonstrate how different CPU scheduling algorithms manage process execution in an operating system.
+
+It allows users to simulate, visualize, and analyze how multiple processes are scheduled according to popular CPU scheduling methods such as First-Come-First-Served (FCFS), Shortest Job First (SJF), and Round Robin (RR).
+
+This simulator provides:
+
+A step-by-step execution order (Gantt chart) for each scheduling type.
+
+Detailed computation of Waiting Time, Turnaround Time, and Response Time for every process.
+
+Average statistics for performance comparison among algorithms.
+
+Ideal for students, researchers, and developers, this project helps in understanding the logic behind CPU scheduling and the impact of each algorithm on process performance.
 
 Implementing these 3 types of algorithms:
 
